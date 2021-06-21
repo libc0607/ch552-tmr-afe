@@ -3,7 +3,7 @@
 
 /*
   CH552 + ADS1255 Analog Frontend for Magnetic sensor
-  a very simple successor of https://github.com/libc0607/ch552-tmr-afe/tree/main/ads1255-afe
+  a very simple successor of https://github.com/libc0607/ch552-tmr-afe/tree/main/hx712-afe
   Hardware at https://oshwhub.com/libc0607/ch552-ads1255-simple-afe-v1
 
   Please install https://github.com/DeqingSun/ch55xduino first,
